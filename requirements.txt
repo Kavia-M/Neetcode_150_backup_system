@@ -1,0 +1,13 @@
+# Python dependencies — install with: pip install -r requirements.txt
+playwright==1.43.0
+requests==2.31.0
+tqdm==4.66.4
+beautifulsoup4==4.12.3
+markdown==3.6
+python-dotenv==1.0.1
+weasyprint==62.3
+pyotp==2.9.0
+
+# Node.js dependencies (for build_pdf.js) — install with: npm install
+# puppeteer  ^24.x
+# marked     ^9.x
