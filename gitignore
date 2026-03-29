@@ -1,6 +1,17 @@
+# Python
 venv/
 __pycache__/
 *.pyc
 *.pyo
-NeetCode_150_Backup/
+
+# Credentials & session
 .env
+session.json
+
+# Generated output — do not distribute scraped content
+NeetCode_150_Backup/
+NeetCode_150_Book.pdf
+NeetCode_150_Links.txt
+
+# Node
+node_modules/
